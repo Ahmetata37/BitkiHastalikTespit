@@ -1,0 +1,8 @@
+venv/
+env/
+.env
+__pycache__/
+*.DS_Store
+dataset/
+images/
+# Eğer veri setin başka bir klasördeyse onun adını da buraya ekle
